@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jac/ClionProjects/leetcode/main.cpp
+iostream
+-
+
+/home/jac/ClionProjects/leetcode/package/q1.cpp
+iostream
+-
+vector
+-
+map
+-
+
+/home/jac/ClionProjects/leetcode/package/q2.cpp
+iostream
+-
+

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.6)
+project(leetcode)
+
+set(CMAKE_CXX_STANDARD 11)
+
+set(SOURCE_FILES main.cpp leetcode/q1.cpp leetcode/q2.cpp leetcode/leet283.cpp leetcode/leet26.cpp leetcode/leet80.cpp)
+add_executable(leetcode ${SOURCE_FILES})
