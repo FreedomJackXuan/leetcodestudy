@@ -177,6 +177,33 @@ leetcode/leet283.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet283.cpp.s
 .PHONY : leetcode/leet283.cpp.s
 
+leetcode/leet75.o: leetcode/leet75.cpp.o
+
+.PHONY : leetcode/leet75.o
+
+# target to build an object file
+leetcode/leet75.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet75.cpp.o
+.PHONY : leetcode/leet75.cpp.o
+
+leetcode/leet75.i: leetcode/leet75.cpp.i
+
+.PHONY : leetcode/leet75.i
+
+# target to preprocess a source file
+leetcode/leet75.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet75.cpp.i
+.PHONY : leetcode/leet75.cpp.i
+
+leetcode/leet75.s: leetcode/leet75.cpp.s
+
+.PHONY : leetcode/leet75.s
+
+# target to generate assembly for a file
+leetcode/leet75.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet75.cpp.s
+.PHONY : leetcode/leet75.cpp.s
+
 leetcode/leet80.o: leetcode/leet80.cpp.o
 
 .PHONY : leetcode/leet80.o
@@ -203,6 +230,33 @@ leetcode/leet80.s: leetcode/leet80.cpp.s
 leetcode/leet80.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet80.cpp.s
 .PHONY : leetcode/leet80.cpp.s
+
+leetcode/leet88.o: leetcode/leet88.cpp.o
+
+.PHONY : leetcode/leet88.o
+
+# target to build an object file
+leetcode/leet88.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet88.cpp.o
+.PHONY : leetcode/leet88.cpp.o
+
+leetcode/leet88.i: leetcode/leet88.cpp.i
+
+.PHONY : leetcode/leet88.i
+
+# target to preprocess a source file
+leetcode/leet88.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet88.cpp.i
+.PHONY : leetcode/leet88.cpp.i
+
+leetcode/leet88.s: leetcode/leet88.cpp.s
+
+.PHONY : leetcode/leet88.s
+
+# target to generate assembly for a file
+leetcode/leet88.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet88.cpp.s
+.PHONY : leetcode/leet88.cpp.s
 
 leetcode/q1.o: leetcode/q1.cpp.o
 
@@ -300,9 +354,15 @@ help:
 	@echo "... leetcode/leet283.o"
 	@echo "... leetcode/leet283.i"
 	@echo "... leetcode/leet283.s"
+	@echo "... leetcode/leet75.o"
+	@echo "... leetcode/leet75.i"
+	@echo "... leetcode/leet75.s"
 	@echo "... leetcode/leet80.o"
 	@echo "... leetcode/leet80.i"
 	@echo "... leetcode/leet80.s"
+	@echo "... leetcode/leet88.o"
+	@echo "... leetcode/leet88.i"
+	@echo "... leetcode/leet88.s"
 	@echo "... leetcode/q1.o"
 	@echo "... leetcode/q1.i"
 	@echo "... leetcode/q1.s"

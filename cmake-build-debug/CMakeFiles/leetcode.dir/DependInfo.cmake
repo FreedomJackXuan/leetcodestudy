@@ -6,7 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jac/ClionProjects/leetcode/leetcode/leet26.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet26.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet283.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet283.cpp.o"
+  "/home/jac/ClionProjects/leetcode/leetcode/leet75.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet75.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet80.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet80.cpp.o"
+  "/home/jac/ClionProjects/leetcode/leetcode/leet88.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet88.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/q1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q1.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/q2.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q2.cpp.o"
   "/home/jac/ClionProjects/leetcode/main.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.o"
