@@ -6,11 +6,49 @@
 
 #IncludeRegexTransform: 
 
-/home/jac/ClionProjects/leetcode/main.cpp
+/home/jac/ClionProjects/leetcode/leetcode/leet215.cpp
 iostream
 -
+vector
+-
 
-/home/jac/ClionProjects/leetcode/package/q1.cpp
+/home/jac/ClionProjects/leetcode/leetcode/leet26.cpp
+iostream
+-
+vector
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet283.cpp
+iostream
+-
+vector
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet75.cpp
+iostream
+-
+vector
+-
+cassert
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet80.cpp
+iostream
+-
+vector
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet88.cpp
+iostream
+-
+vector
+-
+cassert
+-
+math.h
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/q1.cpp
 iostream
 -
 vector
@@ -18,7 +56,11 @@ vector
 map
 -
 
-/home/jac/ClionProjects/leetcode/package/q2.cpp
+/home/jac/ClionProjects/leetcode/leetcode/q2.cpp
+iostream
+-
+
+/home/jac/ClionProjects/leetcode/main.cpp
 iostream
 -
 

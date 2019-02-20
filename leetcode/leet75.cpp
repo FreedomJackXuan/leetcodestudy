@@ -14,7 +14,7 @@ public:
         int x = -1;
         int z = nums.size();
 
-        //三鹿快排
+        //三路快排
         for (int i = 0; i < z;){
             if (nums[i] == 1) {
                 i++;
