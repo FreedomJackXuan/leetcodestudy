@@ -123,6 +123,33 @@ leetcode/fast:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/build
 .PHONY : leetcode/fast
 
+leetcode/leet167.o: leetcode/leet167.cpp.o
+
+.PHONY : leetcode/leet167.o
+
+# target to build an object file
+leetcode/leet167.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet167.cpp.o
+.PHONY : leetcode/leet167.cpp.o
+
+leetcode/leet167.i: leetcode/leet167.cpp.i
+
+.PHONY : leetcode/leet167.i
+
+# target to preprocess a source file
+leetcode/leet167.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet167.cpp.i
+.PHONY : leetcode/leet167.cpp.i
+
+leetcode/leet167.s: leetcode/leet167.cpp.s
+
+.PHONY : leetcode/leet167.s
+
+# target to generate assembly for a file
+leetcode/leet167.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet167.cpp.s
+.PHONY : leetcode/leet167.cpp.s
+
 leetcode/leet215.o: leetcode/leet215.cpp.o
 
 .PHONY : leetcode/leet215.o
@@ -375,6 +402,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode"
+	@echo "... leetcode/leet167.o"
+	@echo "... leetcode/leet167.i"
+	@echo "... leetcode/leet167.s"
 	@echo "... leetcode/leet215.o"
 	@echo "... leetcode/leet215.i"
 	@echo "... leetcode/leet215.s"
