@@ -177,6 +177,33 @@ leetcode/leet167.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet167.cpp.s
 .PHONY : leetcode/leet167.cpp.s
 
+leetcode/leet209.o: leetcode/leet209.cpp.o
+
+.PHONY : leetcode/leet209.o
+
+# target to build an object file
+leetcode/leet209.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet209.cpp.o
+.PHONY : leetcode/leet209.cpp.o
+
+leetcode/leet209.i: leetcode/leet209.cpp.i
+
+.PHONY : leetcode/leet209.i
+
+# target to preprocess a source file
+leetcode/leet209.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet209.cpp.i
+.PHONY : leetcode/leet209.cpp.i
+
+leetcode/leet209.s: leetcode/leet209.cpp.s
+
+.PHONY : leetcode/leet209.s
+
+# target to generate assembly for a file
+leetcode/leet209.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet209.cpp.s
+.PHONY : leetcode/leet209.cpp.s
+
 leetcode/leet215.o: leetcode/leet215.cpp.o
 
 .PHONY : leetcode/leet215.o
@@ -257,6 +284,33 @@ leetcode/leet283.s: leetcode/leet283.cpp.s
 leetcode/leet283.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet283.cpp.s
 .PHONY : leetcode/leet283.cpp.s
+
+leetcode/leet3.o: leetcode/leet3.cpp.o
+
+.PHONY : leetcode/leet3.o
+
+# target to build an object file
+leetcode/leet3.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o
+.PHONY : leetcode/leet3.cpp.o
+
+leetcode/leet3.i: leetcode/leet3.cpp.i
+
+.PHONY : leetcode/leet3.i
+
+# target to preprocess a source file
+leetcode/leet3.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet3.cpp.i
+.PHONY : leetcode/leet3.cpp.i
+
+leetcode/leet3.s: leetcode/leet3.cpp.s
+
+.PHONY : leetcode/leet3.s
+
+# target to generate assembly for a file
+leetcode/leet3.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet3.cpp.s
+.PHONY : leetcode/leet3.cpp.s
 
 leetcode/leet344.o: leetcode/leet344.cpp.o
 
@@ -462,6 +516,9 @@ help:
 	@echo "... leetcode/leet167.o"
 	@echo "... leetcode/leet167.i"
 	@echo "... leetcode/leet167.s"
+	@echo "... leetcode/leet209.o"
+	@echo "... leetcode/leet209.i"
+	@echo "... leetcode/leet209.s"
 	@echo "... leetcode/leet215.o"
 	@echo "... leetcode/leet215.i"
 	@echo "... leetcode/leet215.s"
@@ -471,6 +528,9 @@ help:
 	@echo "... leetcode/leet283.o"
 	@echo "... leetcode/leet283.i"
 	@echo "... leetcode/leet283.s"
+	@echo "... leetcode/leet3.o"
+	@echo "... leetcode/leet3.i"
+	@echo "... leetcode/leet3.s"
 	@echo "... leetcode/leet344.o"
 	@echo "... leetcode/leet344.i"
 	@echo "... leetcode/leet344.s"
