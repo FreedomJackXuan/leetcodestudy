@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet125.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet167.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -94,6 +97,9 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet283.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet344.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet75.cpp">

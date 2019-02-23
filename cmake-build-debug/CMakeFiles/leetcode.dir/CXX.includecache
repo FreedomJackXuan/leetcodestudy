@@ -6,10 +6,30 @@
 
 #IncludeRegexTransform: 
 
+/home/jac/ClionProjects/leetcode/leetcode/leet125.cpp
+iostream
+-
+vector
+-
+string
+-
+cctype
+-
+algorithm
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet167.cpp
+iostream
+-
+vector
+-
+
 /home/jac/ClionProjects/leetcode/leetcode/leet215.cpp
 iostream
 -
 vector
+-
+algorithm
 -
 
 /home/jac/ClionProjects/leetcode/leetcode/leet26.cpp
@@ -62,5 +82,7 @@ iostream
 
 /home/jac/ClionProjects/leetcode/main.cpp
 iostream
+-
+cstring
 -
 
