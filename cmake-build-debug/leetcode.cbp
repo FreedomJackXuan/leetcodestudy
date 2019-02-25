@@ -114,6 +114,9 @@
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet75.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet76.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet80.cpp">
 			<Option target="leetcode"/>
 		</Unit>

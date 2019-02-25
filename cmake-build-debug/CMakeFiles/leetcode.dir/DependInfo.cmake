@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jac/ClionProjects/leetcode/leetcode/leet344.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet344.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet438.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet75.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet75.cpp.o"
+  "/home/jac/ClionProjects/leetcode/leetcode/leet76.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet80.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet80.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet88.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet88.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/q1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q1.cpp.o"
