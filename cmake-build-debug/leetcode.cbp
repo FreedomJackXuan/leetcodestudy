@@ -90,6 +90,9 @@
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet167.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet202.cpp">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/leetcode/leet209.cpp">
 			<Option target="leetcode"/>
 		</Unit>
@@ -133,6 +136,15 @@
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/main.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/study/stack/ArrayStack.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/study/stack/LingkListStack.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="/home/jac/ClionProjects/leetcode/study/stack/test1.cpp">
 			<Option target="leetcode"/>
 		</Unit>
 		<Unit filename="/home/jac/ClionProjects/leetcode/CMakeLists.txt">

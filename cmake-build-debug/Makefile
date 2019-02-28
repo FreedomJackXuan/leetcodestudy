@@ -177,6 +177,33 @@ leetcode/leet167.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet167.cpp.s
 .PHONY : leetcode/leet167.cpp.s
 
+leetcode/leet202.o: leetcode/leet202.cpp.o
+
+.PHONY : leetcode/leet202.o
+
+# target to build an object file
+leetcode/leet202.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o
+.PHONY : leetcode/leet202.cpp.o
+
+leetcode/leet202.i: leetcode/leet202.cpp.i
+
+.PHONY : leetcode/leet202.i
+
+# target to preprocess a source file
+leetcode/leet202.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet202.cpp.i
+.PHONY : leetcode/leet202.cpp.i
+
+leetcode/leet202.s: leetcode/leet202.cpp.s
+
+.PHONY : leetcode/leet202.s
+
+# target to generate assembly for a file
+leetcode/leet202.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet202.cpp.s
+.PHONY : leetcode/leet202.cpp.s
+
 leetcode/leet209.o: leetcode/leet209.cpp.o
 
 .PHONY : leetcode/leet209.o
@@ -582,6 +609,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+study/stack/test1.o: study/stack/test1.cpp.o
+
+.PHONY : study/stack/test1.o
+
+# target to build an object file
+study/stack/test1.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/study/stack/test1.cpp.o
+.PHONY : study/stack/test1.cpp.o
+
+study/stack/test1.i: study/stack/test1.cpp.i
+
+.PHONY : study/stack/test1.i
+
+# target to preprocess a source file
+study/stack/test1.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/study/stack/test1.cpp.i
+.PHONY : study/stack/test1.cpp.i
+
+study/stack/test1.s: study/stack/test1.cpp.s
+
+.PHONY : study/stack/test1.s
+
+# target to generate assembly for a file
+study/stack/test1.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/study/stack/test1.cpp.s
+.PHONY : study/stack/test1.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -597,6 +651,9 @@ help:
 	@echo "... leetcode/leet167.o"
 	@echo "... leetcode/leet167.i"
 	@echo "... leetcode/leet167.s"
+	@echo "... leetcode/leet202.o"
+	@echo "... leetcode/leet202.i"
+	@echo "... leetcode/leet202.s"
 	@echo "... leetcode/leet209.o"
 	@echo "... leetcode/leet209.i"
 	@echo "... leetcode/leet209.s"
@@ -642,6 +699,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... study/stack/test1.o"
+	@echo "... study/stack/test1.i"
+	@echo "... study/stack/test1.s"
 .PHONY : help
 
 

@@ -5,6 +5,8 @@ CMakeFiles/leetcode.dir/leetcode/leet125.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet125.cpp
 CMakeFiles/leetcode.dir/leetcode/leet167.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet167.cpp
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o
+ /home/jac/ClionProjects/leetcode/leetcode/leet202.cpp
 CMakeFiles/leetcode.dir/leetcode/leet209.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet209.cpp
 CMakeFiles/leetcode.dir/leetcode/leet215.cpp.o
@@ -13,10 +15,18 @@ CMakeFiles/leetcode.dir/leetcode/leet26.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet26.cpp
 CMakeFiles/leetcode.dir/leetcode/leet283.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet283.cpp
+CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o
+ /home/jac/ClionProjects/leetcode/leetcode/leet3.cpp
 CMakeFiles/leetcode.dir/leetcode/leet344.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet344.cpp
+CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o
+ /home/jac/ClionProjects/leetcode/leetcode/leet349.cpp
+CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o
+ /home/jac/ClionProjects/leetcode/leetcode/leet438.cpp
 CMakeFiles/leetcode.dir/leetcode/leet75.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet75.cpp
+CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o
+ /home/jac/ClionProjects/leetcode/leetcode/leet76.cpp
 CMakeFiles/leetcode.dir/leetcode/leet80.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/leet80.cpp
 CMakeFiles/leetcode.dir/leetcode/leet88.cpp.o
@@ -27,3 +37,6 @@ CMakeFiles/leetcode.dir/leetcode/q2.cpp.o
  /home/jac/ClionProjects/leetcode/leetcode/q2.cpp
 CMakeFiles/leetcode.dir/main.cpp.o
  /home/jac/ClionProjects/leetcode/main.cpp
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o
+ /home/jac/ClionProjects/leetcode/study/stack/LingkListStack.h
+ /home/jac/ClionProjects/leetcode/study/stack/test1.cpp

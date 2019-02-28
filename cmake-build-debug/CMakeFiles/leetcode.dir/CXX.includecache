@@ -24,6 +24,14 @@ iostream
 vector
 -
 
+/home/jac/ClionProjects/leetcode/leetcode/leet202.cpp
+iostream
+-
+sstream
+-
+set
+-
+
 /home/jac/ClionProjects/leetcode/leetcode/leet209.cpp
 iostream
 -
@@ -50,7 +58,25 @@ iostream
 vector
 -
 
+/home/jac/ClionProjects/leetcode/leetcode/leet3.cpp
+iostream
+-
+
 /home/jac/ClionProjects/leetcode/leetcode/leet344.cpp
+iostream
+-
+vector
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet349.cpp
+iostream
+-
+vector
+-
+set
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet438.cpp
 iostream
 -
 vector
@@ -62,6 +88,10 @@ iostream
 vector
 -
 cassert
+-
+
+/home/jac/ClionProjects/leetcode/leetcode/leet76.cpp
+iostream
 -
 
 /home/jac/ClionProjects/leetcode/leetcode/leet80.cpp
@@ -95,8 +125,18 @@ iostream
 /home/jac/ClionProjects/leetcode/main.cpp
 iostream
 -
-cstring
+
+/home/jac/ClionProjects/leetcode/study/stack/LingkListStack.h
+iostream
 -
-vector
+list
 -
+
+/home/jac/ClionProjects/leetcode/study/stack/test1.cpp
+iostream
+-
+sstream
+-
+LingkListStack.h
+/home/jac/ClionProjects/leetcode/study/stack/LingkListStack.h
 

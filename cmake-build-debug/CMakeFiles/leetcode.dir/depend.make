@@ -5,6 +5,8 @@ CMakeFiles/leetcode.dir/leetcode/leet125.cpp.o: ../leetcode/leet125.cpp
 
 CMakeFiles/leetcode.dir/leetcode/leet167.cpp.o: ../leetcode/leet167.cpp
 
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o: ../leetcode/leet202.cpp
+
 CMakeFiles/leetcode.dir/leetcode/leet209.cpp.o: ../leetcode/leet209.cpp
 
 CMakeFiles/leetcode.dir/leetcode/leet215.cpp.o: ../leetcode/leet215.cpp
@@ -13,9 +15,17 @@ CMakeFiles/leetcode.dir/leetcode/leet26.cpp.o: ../leetcode/leet26.cpp
 
 CMakeFiles/leetcode.dir/leetcode/leet283.cpp.o: ../leetcode/leet283.cpp
 
+CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o: ../leetcode/leet3.cpp
+
 CMakeFiles/leetcode.dir/leetcode/leet344.cpp.o: ../leetcode/leet344.cpp
 
+CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o: ../leetcode/leet349.cpp
+
+CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o: ../leetcode/leet438.cpp
+
 CMakeFiles/leetcode.dir/leetcode/leet75.cpp.o: ../leetcode/leet75.cpp
+
+CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o: ../leetcode/leet76.cpp
 
 CMakeFiles/leetcode.dir/leetcode/leet80.cpp.o: ../leetcode/leet80.cpp
 
@@ -26,4 +36,7 @@ CMakeFiles/leetcode.dir/leetcode/q1.cpp.o: ../leetcode/q1.cpp
 CMakeFiles/leetcode.dir/leetcode/q2.cpp.o: ../leetcode/q2.cpp
 
 CMakeFiles/leetcode.dir/main.cpp.o: ../main.cpp
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o: ../study/stack/LingkListStack.h
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o: ../study/stack/test1.cpp
 

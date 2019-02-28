@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jac/ClionProjects/leetcode/leetcode/leet125.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet125.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet167.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet167.cpp.o"
+  "/home/jac/ClionProjects/leetcode/leetcode/leet202.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet209.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet209.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet215.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet215.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/leet26.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/leet26.cpp.o"
@@ -21,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jac/ClionProjects/leetcode/leetcode/q1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q1.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/q2.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q2.cpp.o"
   "/home/jac/ClionProjects/leetcode/main.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.o"
+  "/home/jac/ClionProjects/leetcode/study/stack/test1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/study/stack/test1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -465,6 +465,54 @@ CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o.provides: CMakeFiles/leetcode.dir
 CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o.provides.build: CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o
 
 
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o: ../leetcode/leet202.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o -c /home/jac/ClionProjects/leetcode/leetcode/leet202.cpp
+
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/leetcode/leet202.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jac/ClionProjects/leetcode/leetcode/leet202.cpp > CMakeFiles/leetcode.dir/leetcode/leet202.cpp.i
+
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/leetcode/leet202.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jac/ClionProjects/leetcode/leetcode/leet202.cpp -o CMakeFiles/leetcode.dir/leetcode/leet202.cpp.s
+
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.requires
+
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.provides: CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.provides
+
+CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.provides.build: CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o
+
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o: CMakeFiles/leetcode.dir/flags.make
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o: ../study/stack/test1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode.dir/study/stack/test1.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode.dir/study/stack/test1.cpp.o -c /home/jac/ClionProjects/leetcode/study/stack/test1.cpp
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode.dir/study/stack/test1.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jac/ClionProjects/leetcode/study/stack/test1.cpp > CMakeFiles/leetcode.dir/study/stack/test1.cpp.i
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode.dir/study/stack/test1.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jac/ClionProjects/leetcode/study/stack/test1.cpp -o CMakeFiles/leetcode.dir/study/stack/test1.cpp.s
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.requires
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.provides: CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode.dir/build.make CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.provides
+
+CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.provides.build: CMakeFiles/leetcode.dir/study/stack/test1.cpp.o
+
+
 # Object files for target leetcode
 leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/main.cpp.o" \
@@ -483,7 +531,9 @@ leetcode_OBJECTS = \
 "CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o" \
 "CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o" \
 "CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o" \
-"CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o"
+"CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o" \
+"CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o" \
+"CMakeFiles/leetcode.dir/study/stack/test1.cpp.o"
 
 # External object files for target leetcode
 leetcode_EXTERNAL_OBJECTS =
@@ -505,9 +555,11 @@ leetcode: CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o
 leetcode: CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o
 leetcode: CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o
 leetcode: CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o
+leetcode: CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o
+leetcode: CMakeFiles/leetcode.dir/study/stack/test1.cpp.o
 leetcode: CMakeFiles/leetcode.dir/build.make
 leetcode: CMakeFiles/leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable leetcode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -532,6 +584,8 @@ CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/leetcode/leet3.cpp.o.r
 CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/leetcode/leet438.cpp.o.requires
 CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/leetcode/leet76.cpp.o.requires
 CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/leetcode/leet349.cpp.o.requires
+CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/leetcode/leet202.cpp.o.requires
+CMakeFiles/leetcode.dir/requires: CMakeFiles/leetcode.dir/study/stack/test1.cpp.o.requires
 
 .PHONY : CMakeFiles/leetcode.dir/requires
 
