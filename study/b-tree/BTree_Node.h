@@ -7,21 +7,16 @@
 
 /*
  * B-Tree定义：
- * 1：除了叶节点之外,根节点至少有两个子树
- * 2：每个非根非叶节点都有k-1个键值和k个指向子树的指针(其中celi(m / 2) <= k <= m  celi表示取上界)
- * 3：每个叶节点都有k-1个键值(其中 celi(m / 2) <= k <= m)
- * 4：所有的叶节点在同一层
+ * 1）所有叶子处于同一水平。
+ * 2）B树由术语最小度't'定义。 t的值取决于磁盘块大小。
+ * 3）除root之外的每个节点必须至少包含t-1个key。 Root可能包含最少1个key。
+ * 4）所有节点（包括根）最多可包含2t - 1个key。
+ * 5）节点的子节点数等于其中的键数加1。
+ * 6）节点的所有key按递增顺序排序。 两个键k1和k2之间的子包含范围为k1和k2的所有键。
+ * 7）B-Tree从根增长和缩小，这与二进制搜索树不同。 二元搜索树向下生长，也从向下收缩。
+ * 8）与其他平衡二进制搜索树一样，搜索，插入和删除的时间复杂度为O（Logn）。
  * */
 
-//struct BTNode{
-//    int num; //当前节点数数量
-//    int dim;
-//    int *keys;
-//    BTNode *parent;
-//    BTNode ** childs;
-//    BTNode(){}
-//
-//};
 #include <iostream>
 using namespace std;
 
@@ -31,11 +26,13 @@ public:
     BTree_Node(int _t, bool _leaf);
     void traverse(); //用于遍历以此节点为根的子树中的所有节点的函数
     BTree_Node *search(int k); //用于搜索以此节点为根的子树中的键的函数
+    void insertNonFull(int k);
+    void splitChild(int i, BTree_Node *y);
 
 private:
     bool leaf; //如果是叶子节点的话为真, 其他情况false
     int *keys; // 键值
-    int t; //最小度数（定义键数范围）
+    int t; //最小度数
     BTree_Node **C;//一系列子指针
     int n; //当前键数
     friend class BTree<T,M>;
@@ -57,6 +54,8 @@ public:
     BTree_Node *search(int k){
         return (root == NULL) ? NULL: root->traverse();
     }
+
+    void insert(int k);
 
 private:
     BTree_Node *root;
