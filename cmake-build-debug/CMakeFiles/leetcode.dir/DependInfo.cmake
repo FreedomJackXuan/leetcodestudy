@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jac/ClionProjects/leetcode/leetcode/q1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q1.cpp.o"
   "/home/jac/ClionProjects/leetcode/leetcode/q2.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/leetcode/q2.cpp.o"
   "/home/jac/ClionProjects/leetcode/main.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.o"
+  "/home/jac/ClionProjects/leetcode/study/b-tree/BTree_Node.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/study/b-tree/BTree_Node.cpp.o"
   "/home/jac/ClionProjects/leetcode/study/stack/test1.cpp" "/home/jac/ClionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/study/stack/test1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
